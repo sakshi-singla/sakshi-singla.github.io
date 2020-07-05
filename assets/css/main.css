@@ -1995,6 +1995,7 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
+				font-weight: bold;
 			}
 
 /* Icons */
@@ -2250,7 +2251,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/sf.png");
+				background-image: url("../../images/sf.jpg");
 			}
 
 			#main > section.two {
